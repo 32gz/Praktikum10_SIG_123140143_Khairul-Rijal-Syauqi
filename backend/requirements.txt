@@ -1,0 +1,21 @@
+# Web Framework & Database
+fastapi
+uvicorn
+sqlalchemy
+geoalchemy2
+psycopg2-binary
+passlib
+python-jose[cryptography]
+python-multipart
+bcrypt
+
+# AI & Image Processing
+ultralytics
+rasterio
+opencv-python
+geojson
+numpy
+
+# Flask
+flask
+flask-cors
